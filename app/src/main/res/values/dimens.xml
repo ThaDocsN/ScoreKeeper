@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="frPadding">8dp</dimen>
+    <dimen name="txtSize">80sp</dimen>
+    <dimen name="btnWidth">0dp</dimen>
+</resources>

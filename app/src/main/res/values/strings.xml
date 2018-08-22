@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="queen">Queen</string>
+    <string name="rook">Rook</string>
+    <string name="bishop">Bishop</string>
+    <string name="knight">Knight</string>
+    <string name="pawn">Pawn</string>
+    <string name="dspScore">00</string>
+    <string name="resetScore">reset</string>
+</resources>
